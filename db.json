@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "name": "Sita",
+      "genre": "Mythical",
+      "price": "399",
+      "likes": 2,
+      "id": 1
+    },
+    {
+      "name": "Lord of the Rings",
+      "genre": "Fiction",
+      "price": "998",
+      "likes": 1,
+      "id": 2
+    },
+    {
+      "name": "Harry Potter",
+      "genre": "Fiction",
+      "price": "999",
+      "likes": 3,
+      "id": 3
+    },
+    {
+      "name": "Two States",
+      "genre": "Romance",
+      "price": "299",
+      "likes": 0,
+      "id": 4
+    },
+    {
+      "name": "Goosebumps",
+      "genre": "Horror",
+      "price": "259",
+      "likes": 0,
+      "id": 5
+    },
+    {
+      "name": "The Alchemist",
+      "genre": "Fiction",
+      "price": "889",
+      "likes": 1,
+      "id": 6
+    }
+  ]
+}
